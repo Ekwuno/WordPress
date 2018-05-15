@@ -11,7 +11,7 @@ header {
 }
 
 
-/*the nav-bar  */
+
 
 ul.list li {
     display: inline-block;
@@ -114,7 +114,7 @@ footer {
 }
 
 
-/*for small screen  */
+
 
 @media only screen and (max-width: 400px) {
     .col,
@@ -144,11 +144,11 @@ footer {
 }
 
 
-/*for medium screen  */
+
 
 @media only screen and (max-width: 760px) {}
 
 
-/*for  large screen */
+
 
 @media only screen and (max-width: 900px) {}
